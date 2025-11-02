@@ -1,0 +1,5 @@
+app.log
+non_existent_file.txt
+*.log
+.DS_Store
+__pycache__/    
